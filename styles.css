@@ -1,0 +1,38 @@
+/*start of features-2*/
+
+.features-2 {
+    background: #ffffff;
+    font-family: "nunito", sans-serif;
+    padding: 100px 0;
+}
+
+.features-2 h2 {
+    font-size: 1.75rem;
+    font-weight: 300;
+}
+
+.features-2 h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.features-2 p {
+    font-size: 1rem;
+}
+
+.features-2 a {
+    color: #ff0000;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+
+@media (min-width: 992px) {
+	.features-2 {
+		height: 100vh;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
+
+/*end of features-2*/

@@ -26,13 +26,4 @@
     font-size: 1rem;
 }
 
-
-@media (min-width: 992px) {
-	.features-2 {
-		height: 100vh;
-		padding-top: 0;
-		padding-bottom: 0;
-	}
-}
-
 /*end of features-2*/

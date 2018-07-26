@@ -29,7 +29,7 @@
 @media (min-width: 992px) {
 	.features-2 {
 		height: 100vh;
-        min-height: 650px;
+        min-height: 1000px;
 		padding-top: 0;
 		padding-bottom: 0;
 	}
